@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="106" height="95" viewBox="0 0 106 95">
+  <defs>
+    <filter id="Icon_awesome-camera" x="0" y="0" width="106" height="95" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Icon_awesome-camera)">
+    <path id="Icon_awesome-camera-2" data-name="Icon awesome-camera" d="M88,21.5V71a8.252,8.252,0,0,1-8.25,8.25H8.25A8.252,8.252,0,0,1,0,71V21.5a8.252,8.252,0,0,1,8.25-8.25H23.375L25.489,7.6A8.238,8.238,0,0,1,33.206,2.25h21.57A8.238,8.238,0,0,1,62.494,7.6l2.131,5.655H79.75A8.252,8.252,0,0,1,88,21.5ZM64.625,46.25A20.625,20.625,0,1,0,44,66.875,20.641,20.641,0,0,0,64.625,46.25Zm-5.5,0A15.125,15.125,0,1,1,44,31.125,15.147,15.147,0,0,1,59.125,46.25Z" transform="translate(9 6.75)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="135.171" height="96.114" viewBox="0 0 135.171 96.114">
+  <defs>
+    <filter id="Icon_material-computer" x="0" y="0" width="135.171" height="96.114" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Icon_material-computer)">
+    <path id="Icon_material-computer-2" data-name="Icon material-computer" d="M97.642,74.35a9.751,9.751,0,0,0,9.715-9.764l.049-48.821A9.793,9.793,0,0,0,97.642,6H19.528a9.793,9.793,0,0,0-9.764,9.764V64.585a9.793,9.793,0,0,0,9.764,9.764H0v9.764H117.171V74.35ZM19.528,15.764H97.642V64.585H19.528Z" transform="translate(9 3)" fill="#fff"/>
+  </g>
+</svg>

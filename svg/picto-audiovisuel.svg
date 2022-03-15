@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <g id="Groupe_126" data-name="Groupe 126" transform="translate(-499 -942)">
+    <g id="Groupe_104" data-name="Groupe 104">
+      <circle id="Ellipse_18" data-name="Ellipse 18" cx="60" cy="60" r="60" transform="translate(499 942)" fill="#90a1d9"/>
+    </g>
+    <path id="Icon_awesome-camera" data-name="Icon awesome-camera" d="M62.1,15.835V50.768a5.824,5.824,0,0,1-5.822,5.822H5.822A5.824,5.824,0,0,1,0,50.768V15.835a5.824,5.824,0,0,1,5.822-5.822H16.5l1.492-3.991A5.814,5.814,0,0,1,23.434,2.25H38.657A5.814,5.814,0,0,1,44.1,6.022l1.5,3.991H56.281A5.824,5.824,0,0,1,62.1,15.835ZM45.607,33.3A14.555,14.555,0,1,0,31.052,47.857,14.567,14.567,0,0,0,45.607,33.3Zm-3.881,0A10.674,10.674,0,1,1,31.052,22.628,10.69,10.69,0,0,1,41.726,33.3Z" transform="translate(527.949 972.58)" fill="#fff"/>
+  </g>
+</svg>

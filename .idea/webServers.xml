@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6871b871-213a-4d28-b361-9d277ba965f5" name="portfolio-S4">
+        <fileTransfer rootFolder="/home/clients/c10febe5ebfd627a24f237743b1de6a0" accessType="SFTP" host="or5hm.ftp.infomaniak.com" port="22" sshConfigId="f6ff1322-7707-413d-b722-fed833869920" sshConfig="or5hm_yanissalmi@or5hm.ftp.infomaniak.com:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

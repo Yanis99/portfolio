@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85.998" height="85.998" viewBox="0 0 85.998 85.998">
+  <defs>
+    <filter id="Icon_awesome-pencil-alt" x="0" y="0" width="85.998" height="85.998" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Icon_awesome-pencil-alt)">
+    <path id="Icon_awesome-pencil-alt-2" data-name="Icon awesome-pencil-alt" d="M66.127,18.868,60,24.991a1.6,1.6,0,0,1-2.258,0L43,10.249a1.6,1.6,0,0,1,0-2.258l6.123-6.123a6.389,6.389,0,0,1,9.018,0L66.127,9.85A6.365,6.365,0,0,1,66.127,18.868ZM37.744,13.25,2.867,48.127.052,64.264a3.192,3.192,0,0,0,3.692,3.692l16.137-2.829L54.758,30.251a1.6,1.6,0,0,0,0-2.258L40.016,13.25a1.611,1.611,0,0,0-2.271,0ZM16.481,45.139a1.852,1.852,0,0,1,0-2.63L36.934,22.056a1.86,1.86,0,1,1,2.63,2.63L19.111,45.139a1.852,1.852,0,0,1-2.63,0Zm-4.795,11.17h6.375V61.13l-8.567,1.5L5.364,58.5l1.5-8.567h4.821Z" transform="translate(9 8.99)" fill="#fff"/>
+  </g>
+</svg>

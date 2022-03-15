@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64.101" height="85.057" viewBox="0 0 64.101 85.057">
+  <defs>
+    <filter id="Icon_awesome-microphone" x="0" y="0" width="64.101" height="85.057" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Icon_awesome-microphone)">
+    <path id="Icon_awesome-microphone-2" data-name="Icon awesome-microphone" d="M23.051,46.1A12.573,12.573,0,0,0,35.624,33.528V12.573a12.573,12.573,0,0,0-25.146,0V33.528A12.573,12.573,0,0,0,23.051,46.1ZM44.006,25.146h-2.1a2.1,2.1,0,0,0-2.1,2.1v6.287A16.784,16.784,0,0,1,21.376,50.211c-8.71-.85-15.089-8.679-15.089-17.429v-5.54a2.1,2.1,0,0,0-2.1-2.1H2.1a2.1,2.1,0,0,0-2.1,2.1V32.5c0,11.74,8.378,22.206,19.907,23.8V60.77H12.573a2.1,2.1,0,0,0-2.1,2.1v2.1a2.1,2.1,0,0,0,2.1,2.1H33.528a2.1,2.1,0,0,0,2.1-2.1v-2.1a2.1,2.1,0,0,0-2.1-2.1H26.194V56.347A23.073,23.073,0,0,0,46.1,33.528V27.242A2.1,2.1,0,0,0,44.006,25.146Z" transform="translate(9 9)" fill="#fff"/>
+  </g>
+</svg>
